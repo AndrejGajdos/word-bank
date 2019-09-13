@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  margin: 100px;
+  max-width: 1000px;
+  width: 100%;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+form {
+  margin-top: 10px;
+}
+
+input[type="submit"] {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+h4 {
+  margin: 0 10px;
+}
+
+.pre-wrap {
+  white-space: pre-wrap;
+}
+
+.text-left {
+  text-align: left;
+}
