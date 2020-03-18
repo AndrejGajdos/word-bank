@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Word Bank
+
+You can add separate words, show their definition and play flashcard game.
 
 ## Available Scripts
 
