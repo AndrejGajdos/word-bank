@@ -1,4 +1,4 @@
-#Word Bank
+# Word Bank
 
 You can add separate words, show their definition and play flashcard game.
 
