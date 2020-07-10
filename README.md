@@ -2,6 +2,10 @@
 
 You can add separate words, show their definition and play flashcard game.
 
+## Preview
+
+<img src="https://github.com/AndrejGajdos/word-bank/blob/master/media/flashcard.gif" width="500">
+
 ## Available Scripts
 
 In the project directory, you can run:
